@@ -1,0 +1,1 @@
+import express from 'express';const app=express();app.get('/api/count',(req,res)=>res.json({count:1}));app.listen(3000);

@@ -1,0 +1,1 @@
+const CACHE='v1';
